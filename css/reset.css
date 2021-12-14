@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @font-face {
  font-family: '국립박물관문화재단클래식B'; /*눈누*/
  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/국립박물관문화재단클래식B.woff') format('woff');
@@ -17,7 +18,7 @@
  font-weight: normal;
  font-style: normal;
 }
-@charset "UTF-8";
+
 * {
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
